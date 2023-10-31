@@ -39,7 +39,7 @@ Vill du istället testa att köra själv på din egen dator är här de stegen v
 1. Ladda hem koden vi gjorde, klicka på länken: [Haralds kod](https://github.com/christianwigren/harald-coding/archive/refs/heads/main.zip)
 2. Packa upp zip-filen på ett ställa ni tycker passa. Kanske under Mina Dokument.
 3. Starta Visual Studio Code
-4. Välj under Arkiv (File) Öppna Mapp (Open Folder) och välj mappen du nyss packat upp.
+4. Välj under Arkiv (File) -> Öppna Mapp (Open Folder) och välj mappen du nyss packat upp.
 2. I menyn högst upp i visual code finns ett menyval som heter terminal. Välj där att starta en terminal. Detta för att kunna starta en lite webbserver.
 3. Skriv följande kommando: `python3 -m http.server 9000`
 (kräver att du har installerat python (anacoda) på din dator)
