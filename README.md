@@ -63,5 +63,19 @@ Vill du istället testa att köra själv på din egen dator är här de stegen v
 https://getbootstrap.com/ <br />
 
 
-### 4. Testa python, jag la till två små spel gjorda i python (hangman och snake)
-För att testa dessa tror jag dock det lättast att vi hjälps åt eller om ni orkar så hjäler jag till med instruktioner för att starta dem. 
+### 4. Testa python
+Program: Hello World
+1. I menyn högst upp i visual code finns ett menyval som heter terminal. Välj där att starta en terminal.
+2. Skriv `python3 helloworld.py` i terminalen.
+3. Nu skall det skrivas ut "Hello World"
+----
+Program: Hangman
+1. I menyn högst upp i visual code finns ett menyval som heter terminal. Välj där att starta en terminal.
+2. Skriv `python3 hangman.py` i terminalen.
+3. Nu skall det skrivas ut "Hello World"
+----
+Program: Snake
+1. I menyn högst upp i visual code finns ett menyval som heter terminal. Välj där att starta en terminal.
+2. Skriv `pip3 install pygame` i terminalen.
+2. Skriv `python3 snake.py` i terminalen.
+3. Nu skall det skrivas ut "Hello World"
