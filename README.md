@@ -5,11 +5,14 @@ Saker vi pratade om samt lite länkar:
 
 ## Blandat om saker som finns på internet
 
+- Github <br>
+Du surfar nu på en plats på github som jag skapat med koden vi tittade.<br />
+Github är ett bra ställe att spara, dela och diskutera kod. Du kan även hitta MASSOR med gratis-kod att kopiera och använda till eget bruk. https://github.com/
+
 - För att testa ChatGPT<br />
 Skapa konto för att testa är gratis. https://chat.openai.com
 
-- Du surfar nu på en plats på github som jag skapat åt dig gratis.<br />
-Github är ett bra ställe att spara, dela och diskutera kod. Även hitta MASSOR med gratis-kod att kopiera och använda till eget bruk. https://github.com/
+
 
 
 ## För att komma igång med programmering på sin dator
@@ -17,14 +20,14 @@ Github är ett bra ställe att spara, dela och diskutera kod. Även hitta MASSOR
 Jag föreslår att man börjar med kod-språket python för att skapa program. För att skapa webbsidor behöver vi lägga html samt eventuelt CSS och Javascript men man kommer en bra bit med bara html också.
 
 ### 1. Installera Text-editor för programmering
-För att programmera behöver man ett text redigerare som hjälper en med att koda. Ett Word för programmering. Microsoft har skapa en som är populär och fungerar bra på windows m.fl. <br />
+För att programmera behöver man en text-redigerare som hjälper dig med att koda. Ett Word för programmering. Microsoft har skapa en sådan som är populär och fungerar bra på windows. <br />
 [https://code.visualstudio.com](https://code.visualstudio.com/docs/?dv=win64user)
 
 - Tips:
 När man använder Visual Code föreslår den rätt ofta att man skall installera "extentions". Gör det, det brukar vara bra saker!
 
 ### 2. Installera python-exekverare för att kunna programmera python
-Anaconda är rätt bra för underlätta installation av python på windows. 
+Anaconda är rätt bra för göra installation av python på windows så lätt som möjligt. 
 <br />
 https://www.anaconda.com/download/
 
@@ -64,17 +67,17 @@ https://getbootstrap.com/ <br />
 
 
 ### 4. Testa python
-Program: Hello World
+Program: Hello World (Detta gjorde vi tillsammans)
 1. I menyn högst upp i visual code finns ett menyval som heter terminal. Välj där att starta en terminal.
 2. Skriv `python3 helloworld.py` i terminalen.
 3. Nu skall det skrivas ut "Hello World"
 ----
-Program: Hangman
+Program: Hangman (Detta hann vi aldrig titta på)
 1. I menyn högst upp i visual code finns ett menyval som heter terminal. Välj där att starta en terminal.
 2. Skriv `python3 hangman.py` i terminalen.
 3. Nu skall det skrivas ut "Hello World"
 ----
-Program: Snake
+Program: Snake (Detta hann vi aldrig titta på)
 1. I menyn högst upp i visual code finns ett menyval som heter terminal. Välj där att starta en terminal.
 2. Skriv `pip3 install pygame` i terminalen.
 2. Skriv `python3 snake.py` i terminalen.
